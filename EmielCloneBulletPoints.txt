@@ -1,7 +1,3 @@
-- Flare
-- Commanding pressence
-- Don't take life too serious
----
 Visualisation:
 - Unity experience
 	(Unity learn pathway: Junior Programmer)
@@ -37,6 +33,3 @@ Programming:
 - KUKA robot language
 - Docker
 - Latex
----
-- LOLCODE
-	(Codecademy lolcode)
