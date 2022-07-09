@@ -3,8 +3,8 @@ html, body {
   height: 100%;
   /*text-align: center;*/
   background-color: #f1faee;
-  font-family: 'Roboto Condensed', sans-serif;
-  font-size: 1em;
+  /*font-family: 'Roboto Condensed', sans-serif;*/
+  /*font-size: 1em;*/
   color: #fff;
 }
 
@@ -61,7 +61,7 @@ a:hover {
   content: "";
   display: inline-block;
   font: normal normal normal 14px/1 FontAwesome;
-  font-size: inherit;
+  /*font-size: inherit;*/
   text-rendering: auto;
   margin-right: 1em;
   transition: transform 0.3s;
@@ -93,7 +93,7 @@ a:hover {
 }
 .acnav__link--level3, .acnav__label--level3 {
   padding-left: 5em;
-  background: #a8dadc;
+  background: #77d7da;
 }
 .acnav__link--level3:focus, .acnav__link--level3:hover, .acnav__label--level3:focus, .acnav__label--level3:hover {
   background: #ff8902;
@@ -111,8 +111,6 @@ a:hover {
 .is-open > .acnav__list--level2, .is-open > .acnav__list--level3, .is-open > .acnav__list--level4 {
   display: block;
 }
-
-
 
 input[type='checkbox'] + .pure-toggle {
   display: inline-block;
