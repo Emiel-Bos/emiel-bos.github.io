@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Sitemap: https://emielbos.com/sitemap.xml
+Host: https://emielbos.com
