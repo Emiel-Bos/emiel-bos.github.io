@@ -1,0 +1,5 @@
+{
+    "componentChunkName": "component---src-templates-tag-js",
+    "path": "/pensieve/tags/iot/",
+    "result": {"data":{"allMarkdownRemark":{"totalCount":1,"edges":[{"node":{"frontmatter":{"title":"Augmented reality course","description":"A two-day course seeking to educate industry through a hands-on approach about the possibilities of augmented reality.","date":"2022-09-01T00:00:00.000Z","slug":"/pensieve/augmented-reality-course","tags":["Augmented reality","Education","Azure","IOT"]}}}]}},"pageContext":{"tag":"IOT"}},
+    "staticQueryHashes": ["2009693873","2031412112","3539500889","3825832676"]}
